@@ -7,7 +7,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Scanner;
 
-public class TVShowRecommendation {
+public class TVShowRec {
     public static void main(String[] args) {
         
         System.out.println("Welcome!");
