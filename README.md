@@ -18,6 +18,6 @@
 
 ## Usage
 
-1. Compile and run the `TVShowRecommendation.java` file.
+1. Compile and run the `TVShowRec.java` file.
 2. Follow the prompts to provide similar show name, genre, and minimum rating preferences.
 3. Receive a list of recommended TV shows.
